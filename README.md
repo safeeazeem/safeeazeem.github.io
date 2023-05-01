@@ -10,7 +10,7 @@
 
 ## Word Experience
 **Head of AI**
- *Craftly.AI(*Sept-2021 - Present*)*
+*Craftly.AI(*Sept-2021 - Present*)*
  - Created 100+ Copy writing tools using GPT-3, ChatGPT, and GPT-4 using Prompt Engineering Techniques.
  - Fine tuned LLM's on Custom Use cases scenarios.
  - Optimized and reduce generation cost by up to 50% by analyzing real time user data and their behavior.
