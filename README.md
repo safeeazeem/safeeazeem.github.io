@@ -1,5 +1,3 @@
-# safeeazeem.github.io
-
 # Machine Learning Engineer
 
 ### Education
